@@ -117,8 +117,6 @@ stages:
               appSettings: |
                 [
                   {
-                    "name": "AppSettings:LeaderboardFunctionUrl",
-                    "value": "http://$(LeaderboardAppName).azurewebsites.net/api/LeaderboardFunction?pageSize=10",
-                    "slotSetting": false
+                    http://tailspin-space-game-leaderboard-7108.azurewebsites.net/api/LeaderboardFunction
                   }
                 ]
